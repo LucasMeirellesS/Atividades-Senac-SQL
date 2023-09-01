@@ -15,4 +15,5 @@ Atividade 4: Realizando uma série de desafios de pesquisa no banco de dados do 
 Unidade curricular 4:
 
 Atividade 2 - Foram criados procedures, functions e triggers para o banco de dados da loja
+
 Atividade 3 - Foram criados indexes para otimizar as pesquisas no banco de dados.
